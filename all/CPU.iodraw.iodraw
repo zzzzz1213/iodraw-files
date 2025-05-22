@@ -115,11 +115,8 @@
             <mxPoint x="820" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EG1EYUmVn-HIHOM36R7d-41" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EG1EYUmVn-HIHOM36R7d-2">
-          <mxGeometry width="50" height="100" relative="1" as="geometry">
-            <mxPoint x="520" y="190" as="sourcePoint" />
-            <mxPoint x="570" y="90" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="EG1EYUmVn-HIHOM36R7d-42" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
