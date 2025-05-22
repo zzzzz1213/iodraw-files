@@ -121,12 +121,6 @@
         <mxCell id="EG1EYUmVn-HIHOM36R7d-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="556" y="780" width="76" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="EG1EYUmVn-HIHOM36R7d-50" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EG1EYUmVn-HIHOM36R7d-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="100" as="sourcePoint" />
-            <mxPoint x="800" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EG1EYUmVn-HIHOM36R7d-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="130" as="sourcePoint" />
@@ -398,7 +392,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EG1EYUmVn-HIHOM36R7d-97" value="SWC SWB SWA=100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="315" y="50" width="140" height="30" as="geometry" />
+          <mxGeometry x="315" y="40" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EG1EYUmVn-HIHOM36R7d-98" value="写寄存器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="385" y="70" width="70" height="30" as="geometry" />
