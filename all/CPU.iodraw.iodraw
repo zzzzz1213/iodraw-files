@@ -118,6 +118,9 @@
         <mxCell id="EG1EYUmVn-HIHOM36R7d-42" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="100" width="260" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EG1EYUmVn-HIHOM36R7d-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="EG1EYUmVn-HIHOM36R7d-42" target="EG1EYUmVn-HIHOM36R7d-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
