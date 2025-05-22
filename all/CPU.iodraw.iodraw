@@ -439,8 +439,11 @@
         <mxCell id="EG1EYUmVn-HIHOM36R7d-114" value="STO=1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="780" y="525" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EG1EYUmVn-HIHOM36R7d-115" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="55" y="638" width="50" height="30" as="geometry" />
+        <mxCell id="EG1EYUmVn-HIHOM36R7d-115" value="0001&lt;div&gt;ADD&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="633" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EG1EYUmVn-HIHOM36R7d-116" value="0010&lt;div&gt;SUB&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="623" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
