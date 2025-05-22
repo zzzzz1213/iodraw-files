@@ -409,8 +409,8 @@
         <mxCell id="EG1EYUmVn-HIHOM36R7d-104" value="000&lt;div&gt;取指&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="684" y="130" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EG1EYUmVn-HIHOM36R7d-105" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="835" y="128" width="50" height="30" as="geometry" />
+        <mxCell id="EG1EYUmVn-HIHOM36R7d-105" value="010&lt;div&gt;读存储器&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="815.25" y="130" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
