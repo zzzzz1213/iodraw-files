@@ -415,6 +415,9 @@
         <mxCell id="EG1EYUmVn-HIHOM36R7d-106" value="001&lt;div&gt;写存储器&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1040" y="130" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="EG1EYUmVn-HIHOM36R7d-107" value="STO=0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="188" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
