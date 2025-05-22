@@ -380,7 +380,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EG1EYUmVn-HIHOM36R7d-97" value="SWC SWB SWA=100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="304" y="124" width="140" height="30" as="geometry" />
+          <mxGeometry x="305" y="126" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EG1EYUmVn-HIHOM36R7d-98" value="写寄存器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="388" y="140" width="70" height="30" as="geometry" />
