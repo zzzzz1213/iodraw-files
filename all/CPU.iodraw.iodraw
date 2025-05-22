@@ -380,10 +380,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EG1EYUmVn-HIHOM36R7d-97" value="SWC SWB SWA=100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="315" y="40" width="140" height="30" as="geometry" />
+          <mxGeometry x="318" y="110" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EG1EYUmVn-HIHOM36R7d-98" value="写寄存器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="385" y="70" width="70" height="30" as="geometry" />
+          <mxGeometry x="388" y="140" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EG1EYUmVn-HIHOM36R7d-99" value="011&lt;div&gt;读寄存器&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="556" y="130" width="70" height="40" as="geometry" />
@@ -405,6 +405,9 @@
             <mxPoint x="710" y="530" as="sourcePoint" />
             <mxPoint x="710" y="170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EG1EYUmVn-HIHOM36R7d-104" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="655" y="128" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
