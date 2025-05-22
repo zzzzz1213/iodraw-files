@@ -44,16 +44,19 @@
           <mxGeometry x="814" y="150" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="EG1EYUmVn-HIHOM36R7d-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="510" width="90" height="30" as="geometry" />
+          <mxGeometry x="355" y="460" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EG1EYUmVn-HIHOM36R7d-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="510" width="90" height="30" as="geometry" />
+          <mxGeometry x="475" y="460" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EG1EYUmVn-HIHOM36R7d-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="560" width="90" height="50" as="geometry" />
+          <mxGeometry x="355" y="510" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EG1EYUmVn-HIHOM36R7d-19" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="570" width="105" height="30" as="geometry" />
+          <mxGeometry x="480" y="520" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EG1EYUmVn-HIHOM36R7d-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="570" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
