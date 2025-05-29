@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="D3oAr9OPKWLy7ZifCvuj">
-    <mxGraphModel dx="1194" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="853" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
           <mxGeometry x="725.25" y="555" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EG1EYUmVn-HIHOM36R7d-18" value="SBUS&lt;div&gt;LPC&lt;/div&gt;&lt;div&gt;SST0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="594" y="595" width="90" height="50" as="geometry" />
+          <mxGeometry x="605.25" y="605" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EG1EYUmVn-HIHOM36R7d-19" value="IR7-IR4" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="717.75" y="615" width="105" height="30" as="geometry" />
@@ -518,7 +518,7 @@
           <mxGeometry x="17" y="853" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DtZ4b2rXxKFxfj3JMiF2-1" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="600" y="580" width="20" height="120" as="geometry" />
+          <mxGeometry x="507" y="520" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
