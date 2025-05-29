@@ -518,7 +518,10 @@
           <mxGeometry x="17" y="853" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DtZ4b2rXxKFxfj3JMiF2-1" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="507" y="520" width="20" height="120" as="geometry" />
+          <mxGeometry x="507" y="520" width="20" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DtZ4b2rXxKFxfj3JMiF2-2" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="600" y="560" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
