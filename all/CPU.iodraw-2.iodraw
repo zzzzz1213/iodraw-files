@@ -514,7 +514,7 @@
         <mxCell id="dWowd7LFM_CtS0_FVRiU-15" value="W2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="16" y="725" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dWowd7LFM_CtS0_FVRiU-16" value="W4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="dWowd7LFM_CtS0_FVRiU-16" value="W3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="17" y="853" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
