@@ -46,8 +46,8 @@
         <mxCell id="nDgUD_5YUep0-nTtYtdX-11" value="模块初始化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nDgUD_5YUep0-nTtYtdX-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="860" width="120" height="60" as="geometry" />
+        <mxCell id="nDgUD_5YUep0-nTtYtdX-12" value="采集数据、运算" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
