@@ -58,6 +58,18 @@
         <mxCell id="nDgUD_5YUep0-nTtYtdX-15" value="电机" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="790" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nDgUD_5YUep0-nTtYtdX-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nDgUD_5YUep0-nTtYtdX-11" target="nDgUD_5YUep0-nTtYtdX-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="910" as="sourcePoint" />
+            <mxPoint x="750" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nDgUD_5YUep0-nTtYtdX-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nDgUD_5YUep0-nTtYtdX-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="910" as="sourcePoint" />
+            <mxPoint x="750" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
