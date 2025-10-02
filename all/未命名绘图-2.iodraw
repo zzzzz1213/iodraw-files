@@ -43,11 +43,17 @@
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-10" value="DCT变换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="360" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="qKrq1qoh2RCrOrqaUQ1r-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKrq1qoh2RCrOrqaUQ1r-11" target="qKrq1qoh2RCrOrqaUQ1r-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-11" value="哈希生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-12" value=" 相似度判断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qKrq1qoh2RCrOrqaUQ1r-18" value="图像处理工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
