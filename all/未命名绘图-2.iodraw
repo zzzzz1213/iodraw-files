@@ -53,13 +53,13 @@
           <mxGeometry x="10" y="490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-18" value="图像处理工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-19" value="图像处理工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="380" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-20" value="图像处理工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="410" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
