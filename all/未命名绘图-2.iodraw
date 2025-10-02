@@ -16,6 +16,9 @@
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKrq1qoh2RCrOrqaUQ1r-2" target="qKrq1qoh2RCrOrqaUQ1r-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qKrq1qoh2RCrOrqaUQ1r-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKrq1qoh2RCrOrqaUQ1r-2" target="qKrq1qoh2RCrOrqaUQ1r-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-2" value="核心功能模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="181" y="160" width="120" height="40" as="geometry" />
         </mxCell>
@@ -53,13 +56,13 @@
           <mxGeometry x="101" y="490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-18" value="高斯噪声添加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="281" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="271" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-19" value="JPEG压缩模拟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="281" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="271" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-20" value="亮度调整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="281" y="430" width="120" height="40" as="geometry" />
+          <mxGeometry x="271" y="430" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
