@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="_RV1ePC5Nv739hxuEpbs">
-    <mxGraphModel dx="674" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="771" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,55 +11,55 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-1" value="鲁棒感知哈希实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="212" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="258" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKrq1qoh2RCrOrqaUQ1r-2" target="qKrq1qoh2RCrOrqaUQ1r-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-2" value="核心功能模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="106" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-3" value="实验测试模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="396" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKrq1qoh2RCrOrqaUQ1r-6" target="qKrq1qoh2RCrOrqaUQ1r-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-6" value="visualhash类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="56" y="230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-7" value="图像处理工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="196" y="230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKrq1qoh2RCrOrqaUQ1r-8" target="qKrq1qoh2RCrOrqaUQ1r-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-8" value="图像预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="56" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKrq1qoh2RCrOrqaUQ1r-10" target="qKrq1qoh2RCrOrqaUQ1r-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-10" value="DCT变换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="56" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKrq1qoh2RCrOrqaUQ1r-11" target="qKrq1qoh2RCrOrqaUQ1r-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-11" value="哈希生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="430" width="120" height="40" as="geometry" />
+          <mxGeometry x="56" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-12" value=" 相似度判断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="490" width="120" height="40" as="geometry" />
+          <mxGeometry x="56" y="490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-18" value="高斯噪声添加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="206" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-19" value="JPEG压缩模拟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="206" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-20" value="亮度调整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
+          <mxGeometry x="206" y="430" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
