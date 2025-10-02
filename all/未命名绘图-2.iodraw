@@ -78,6 +78,9 @@
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-26" value="实验测试模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="243" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="qKrq1qoh2RCrOrqaUQ1r-27" value="实验测试模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="253" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
