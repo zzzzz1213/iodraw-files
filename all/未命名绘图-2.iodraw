@@ -4,14 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qKrq1qoh2RCrOrqaUQ1r-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKrq1qoh2RCrOrqaUQ1r-1" target="qKrq1qoh2RCrOrqaUQ1r-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-1" value="鲁棒感知哈希实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="212" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-2" value="核心功能模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-3" value="实验测试模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="130" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="130" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
