@@ -75,6 +75,9 @@
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-20" value="亮度调整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="271" y="443" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="qKrq1qoh2RCrOrqaUQ1r-26" value="实验测试模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="481" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
