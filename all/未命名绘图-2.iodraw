@@ -22,6 +22,9 @@
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-6" value="visualhash类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qKrq1qoh2RCrOrqaUQ1r-7" value="图像处理工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
