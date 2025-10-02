@@ -23,7 +23,7 @@
           <mxGeometry x="181" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-3" value="实验测试模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="471" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="550" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKrq1qoh2RCrOrqaUQ1r-6" target="qKrq1qoh2RCrOrqaUQ1r-8">
           <mxGeometry relative="1" as="geometry" />
@@ -76,7 +76,7 @@
           <mxGeometry x="271" y="443" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKrq1qoh2RCrOrqaUQ1r-26" value="实验测试模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="481" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="430" y="243" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
